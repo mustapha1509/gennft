@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+
+xvfb-run node src/index.js 1 10 &
+
